@@ -1,0 +1,24 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "ascii": "^1.0.0",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.13.0",
+    "glob": "^10.3.10",
+    "libsodium-wrappers": "^0.7.13",
+    "openai": "^4.14.0",
+    "play-audio": "^0.5.2",
+    "play-dl": "^1.9.7",
+    "table": "^6.8.1"
+  }
+}
